@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoxVeritas AI Voice Detector",
+  "description": "An advanced audio forensic system designed to distinguish between human and AI-generated speech across multiple languages including Tamil, English, Hindi, Malayalam, and Telugu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
